@@ -11,6 +11,7 @@ contract SimpleToken is ERC20 {
         string memory symbol,
         uint256 initialSupply
     ) public ERC20(name, symbol) {
-        _mint(msg.sender, initialSupply);
+        _mint(msg.sender, initialSupply * (10**18));
     }
 }
+
