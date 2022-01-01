@@ -14,6 +14,15 @@ Contact me if you want tokens to participate on Discord (@argosopentech#3524) or
 | 58-59.9    | 0x3fA0E921Ece75eA92a18Af2051C853358F943bB2                      |
 | <58        | 0x1B95E48eaD264E0e5Db902AA721C4C9a0F9DC8C0                      |
 
+## Predictions
+| Prediction | 2022-01-01 bid (cth) |
+| ---------- | --------------------------------------------------------------- |
+| >=64       | 0.019936                      |
+| 62-63.9    | 0.0219761                      |
+| 60-61.9    | 0.019936                      |
+| 58-59.9    | 0.019936                      |
+| <58        | 0.0199417                      |
+
 ## Trading
 Tokens can be traded on [cheap swap](https://cheapswap.io/).
 
